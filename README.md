@@ -1,5 +1,5 @@
 # SymbLang
-SymbLang are my programming language!
+```SymbLang are my programming language!
 . - output as Unicode.
 , - input.
 ; - clear data.
@@ -14,3 +14,4 @@ SymbLang are my programming language!
 - - remove 1
 *<value: 0 - 9> - multiply by value
 $<value: 0 - 9> - call a function
+```
