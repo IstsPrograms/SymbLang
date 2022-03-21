@@ -1,6 +1,6 @@
 # SymbLang
 ```SymbLang are my programming language!
-. - output as Unicode.
+. - output as Ascii.
 , - input.
 ; - clear data.
 & - character that the main line start with.
